@@ -1,0 +1,10 @@
+lv_demo_keypad_encoder.c:75:1:dd_enc	0	static
+lv_demo_keypad_encoder.c:229:13:tv_event_cb	16	static
+lv_demo_keypad_encoder.c:210:13:focus_cb	8	static
+lv_demo_keypad_encoder.c:123:13:selectors_create	16	static
+lv_demo_keypad_encoder.c:159:13:text_input_create	24	static
+lv_demo_keypad_encoder.c:258:13:ta_event_cb	24	static
+lv_demo_keypad_encoder.c:292:13:kb_event_cb	16	static
+lv_demo_keypad_encoder.c:175:13:msgbox_create	24	static
+lv_demo_keypad_encoder.c:197:13:msgbox_event_cb	8	static
+lv_demo_keypad_encoder.c:82:6:lv_demo_keypad_encoder	24	static

@@ -1,0 +1,8 @@
+lv_slider.c:474:26:lv_slider_get_style	16	static
+lv_slider.c:498:13:lv_slider_position_knob	24	static
+lv_slider.c:526:13:lv_slider_draw_knob	104	static
+lv_slider.c:161:24:lv_slider_design	48	static
+lv_slider.c:61:12:lv_slider_create	32	static
+lv_slider.c:128:9:lv_slider_get_value	8	static
+lv_slider.c:247:17:lv_slider_signal	56	static
+lv_slider.c:139:6:lv_slider_is_dragged	8	static

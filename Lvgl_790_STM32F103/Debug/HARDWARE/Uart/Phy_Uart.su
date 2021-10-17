@@ -1,0 +1,17 @@
+Phy_Uart.c:159:23:Phy_UsartNextBaud	0	static
+Phy_Uart.c:366:26:Phy_UsartGetIdleRxBuf	4	static
+Phy_Uart.c:491:26:Phy_UART_Transmit_IT	0	static
+Phy_Uart.c:520:26:Phy_UART_EndTransmit_IT	0	static
+Phy_Uart.c:534:26:Phy_UART_Receive_IT	0	static
+Phy_Uart.c:561:13:Phy_UART_EndRxTransfer	0	static
+Phy_Uart.c:133:13:Phy_UsartCtrlInit	16	static
+Phy_Uart.c:60:6:Phy_UsartInit	16	static
+Phy_Uart.c:178:6:Phy_UsartTryNewBaudRate	16	static
+Phy_Uart.c:220:19:Phy_UART_Start_Transmit_IT	24	static
+Phy_Uart.c:270:19:Phy_UART_ReStart_Transmit_IT	0	static
+Phy_Uart.c:314:19:Phy_UART_Start_Receive_IT	16	static
+Phy_Uart.c:578:13:Phy_UsartFrameEndDeal	24	static
+Phy_Uart.c:388:6:Phy_UART_IRQHandler	16	static
+Phy_Uart.c:643:6:Phy_TIM2_Init	8	static
+Phy_Uart.c:688:6:Phy_TIM2_IRQHandler	8	static
+Phy_Uart.c:723:6:Phy_UART_Release	8	static

@@ -1,0 +1,4 @@
+lv_ex_msgbox_2.c:89:13:opa_anim	8	static
+lv_ex_msgbox_2.c:41:13:mbox_event_cb	8	static
+lv_ex_msgbox_2.c:54:13:btn_event_cb	96	static
+lv_ex_msgbox_2.c:17:6:lv_ex_msgbox_2	24	static

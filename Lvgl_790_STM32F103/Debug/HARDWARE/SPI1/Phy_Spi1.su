@@ -1,0 +1,2 @@
+Phy_Spi1.c:8:6:Phy_Spi1Init	96	static
+Phy_Spi1.c:78:6:Phy_Spi1ReadBuffer	16	static

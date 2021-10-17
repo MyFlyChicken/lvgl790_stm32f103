@@ -1,0 +1,12 @@
+LCD_DRV.c:118:6:LCD_WR_REG	0	static
+LCD_DRV.c:123:6:LCD_WR_DATA	0	static
+LCD_DRV.c:106:6:LCDPara_Init	8	static
+LCD_DRV.c:129:16:LCD_RD_data	0	static
+LCD_DRV.c:135:6:LCDDisplay_ON	0	static
+LCD_DRV.c:140:6:LCDDisplay_OFF	0	static
+LCD_DRV.c:146:6:LCD_SetCursor	16	static
+LCD_DRV.c:155:14:LCD_ReadPoint	8	static
+LCD_DRV.c:171:6:LCD_Fast_DrawPoint	24	static
+LCD_DRV.c:183:6:LCD_Fill	24	static
+LCD_DRV.c:199:6:LCD_DMA_FILL	64	static
+LCD_DRV.c:228:6:TFTLCD_Init	8	static

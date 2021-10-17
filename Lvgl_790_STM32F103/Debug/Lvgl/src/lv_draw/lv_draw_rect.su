@@ -1,0 +1,12 @@
+lv_draw_rect.c:1082:35:shadow_blur_corner	56	static
+lv_draw_rect.c:998:35:shadow_draw_corner_buf	96	static
+lv_draw_rect.c:526:35:draw_shadow	192	static
+lv_draw_rect.c:1341:13:draw_full_border	176	static
+lv_draw_rect.c:1156:13:draw_outline	48	static
+lv_draw_rect.c:389:35:draw_border	168	static
+lv_draw_rect.c:1187:13:draw_pattern	152	static
+lv_draw_rect.c:1294:13:draw_value_str	96	static
+lv_draw_rect.c:167:35:draw_bg	184	static
+lv_draw_rect.c:75:28:lv_draw_rect_dsc_init	8	static
+lv_draw_rect.c:103:6:lv_draw_rect	16	static
+lv_draw_rect.c:135:6:lv_draw_px	0	static

@@ -1,0 +1,13 @@
+lv_theme_mono.c:571:13:theme_apply	24	static
+lv_theme_mono.c:1032:13:style_init_reset	8	static
+lv_theme_mono.c:112:13:basic_init	8	static
+lv_theme_mono.c:383:13:switch_init	8	static
+lv_theme_mono.c:346:13:linemeter_init	8	static
+lv_theme_mono.c:310:13:gauge_init	8	static
+lv_theme_mono.c:218:13:arc_init	8	static
+lv_theme_mono.c:275:13:chart_init	8	static
+lv_theme_mono.c:426:13:textarea_init	8	static
+lv_theme_mono.c:438:13:list_init	8	static
+lv_theme_mono.c:464:13:tabview_init	8	static
+lv_theme_mono.c:254:13:calendar_init	8	static
+lv_theme_mono.c:511:14:lv_theme_mono_init	24	static

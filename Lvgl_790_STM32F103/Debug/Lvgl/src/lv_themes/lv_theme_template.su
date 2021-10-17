@@ -1,0 +1,4 @@
+lv_theme_template.c:411:6:theme_apply	16	static
+lv_theme_template.c:862:13:style_init_reset	8	static
+lv_theme_template.c:61:13:basic_init	24	static
+lv_theme_template.c:346:14:lv_theme_template_init	24	static

@@ -1,0 +1,2 @@
+KeyScan.c:36:18:KeyScan_KeyMonitor	8	static
+KeyScan.c:93:6:KeyScan_KeyMessage	8	static

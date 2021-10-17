@@ -1,0 +1,13 @@
+lv_demo_widgets.c:660:13:color_chg_event_cb	48	static
+lv_demo_widgets.c:562:13:ta_event_cb	16	static
+lv_demo_widgets.c:581:13:kb_event_cb	8	static
+lv_demo_widgets.c:545:13:slider_event_cb	24	static
+lv_demo_widgets.c:108:13:controls_create	32	static
+lv_demo_widgets.c:595:13:bar_anim	32	static
+lv_demo_widgets.c:609:13:arc_anim	24	static
+lv_demo_widgets.c:621:13:linemeter_anim	24	static
+lv_demo_widgets.c:632:13:gauge_anim	24	static
+lv_demo_widgets.c:205:13:visuals_create	128	static
+lv_demo_widgets.c:643:13:table_event_cb	16	static
+lv_demo_widgets.c:405:13:selectors_create	144	static
+lv_demo_widgets.c:63:6:lv_demo_widgets	16	static
